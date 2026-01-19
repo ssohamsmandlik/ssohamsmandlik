@@ -1,5 +1,5 @@
 # Hi, I'm Soham
-**A passionate Data Analyst**
+**A Passionate Data Analyst**
 
 - 🔭 **I’m currently working on:** Data Analytics projects (Python | SQL | Power BI)
 - 🌱 **I’m currently learning:** Advanced SQL, DAX & Data Modeling
