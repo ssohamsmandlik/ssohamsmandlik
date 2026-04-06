@@ -1,9 +1,8 @@
 # Hi, I'm Soham
-**A Passionate Data Analyst**
+**Analyst at Circana**
 
-- 🔭 **I’m currently working on:** Data Analytics projects (Python | SQL | Power BI)
+- 🔭 **I’m currently working at:** Circana
 - 🌱 **I’m currently learning:** Advanced SQL, DAX & Data Modeling
-- 🤔 **I’m looking for help:** Entry-level / Junior Data Analyst opportunities
 - 💬 **Ask me about:** Data Analysis, SQL, Power BI, Python, Excel
 - 📫 **How to reach me:** ssohamsmandlik@gmail.com
 - ⚡ **Fun fact:** I turn data into insights faster than Excel crashes
